@@ -48,7 +48,7 @@ Most of the props line up with Fuse.js `options` with the defaults set to match 
   </tr>
   <tr>
     <td>defaultAll</td>
-    <td>If true, results will inclide ALL items in list when search is null. If false, results will inclide no items when search is null.</td>
+    <td>If true, results will include ALL items in list when search is null. If false, results will include no items when search is null.</td>
     <td>Boolean</td>
     <td>true</td>
   </tr>
@@ -65,12 +65,6 @@ Most of the props line up with Fuse.js `options` with the defaults set to match 
     </td>
     <td>Oject, required</td>
     <td>{}</td>
-  </tr>
-  <tr>
-    <td>defaultAll</td>
-    <td>If true, results will inclide ALL items in list when search is null. If false, results will inclide no items when search is null.</td>
-    <td>Boolean</td>
-    <td>true</td>
   </tr>
   <tr>
     <td>mapResults</td>
